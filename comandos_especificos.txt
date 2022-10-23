@@ -1,0 +1,3 @@
+echo gpasswd -a $USER docker
+apt-get install pptpd -y
+apt-get install network-manager-pptp-gnome -y
